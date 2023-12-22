@@ -1,4 +1,4 @@
-const express = require("express");
+const express = requir("express");
 const cors = require("cors");
 const mongoose = require("mongoose");
 const postModel = require("./models/posts");
